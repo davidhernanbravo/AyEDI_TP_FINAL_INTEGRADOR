@@ -1,0 +1,36 @@
+Pedido Nro: 1001
+Cliente: Monica Rnivora - Domicilio: Neandertal 1234
+Vendedor: Ines Tafadora - Supervisora
+Productos:
+	- cod. 301 - Huevos x 12 - $2400.00
+	- cod. 303 - Muslo de pollo x kg - $5500.25
+	- cod. 405 - Morcilla x kg - $5300.50
+	- cod. 501 - Leche x 1lt - $1000.30
+	- cod. 503 - Matambre x kg - $7600.00
+Precio total de su compra: $21801.05
+---------------------------------------------------
+
+Pedido Nro: 1002
+Cliente: Felipe Chuga - Domicilio: Avestruz 3289
+Vendedor: Jose Chamuyo - Vendedor
+Productos:
+	- cod. 302 - Pechuga x kg - $6450.25
+	- cod. 404 - Chorizo x kg - $6200.35
+	- cod. 406 - Churrasco de cerdo x kg - $7500.00
+	- cod. 502 - Tapa de asado x kg - $8500.20
+	- cod. 301 - Huevos x 12 - $2400.00
+Precio total de su compra: $31050.80
+---------------------------------------------------
+
+Pedido Nro: 1003
+Cliente: Josefa Melica - Domicilio: Hambruna 7200
+Vendedor: Ines Tafadora - Supervisora
+Productos:
+	- cod. 303 - Muslo de pollo x kg - $5500.25
+	- cod. 406 - Churrasco de cerdo x kg - $7500.00
+	- cod. 404 - Chorizo x kg - $6200.35
+	- cod. 501 - Leche x 1lt - $1000.30
+	- cod. 302 - Pechuga x kg - $6450.25
+Precio total de su compra: $26651.15
+---------------------------------------------------
+
